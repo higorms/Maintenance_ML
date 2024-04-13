@@ -6,6 +6,9 @@
 
 Projeto de Machine Learning de uma base de dados de manutenção para predizer falha em um torno CNC. Projeto este que serviu como TCC para obtenção do meu diploma como Engenheiro.
 
+# Base de dados utilizada
+Base utilizada foi retirada do Kaggle, publicada por Bansal (2022) com o nome "Machine Predictive Maintenance Classification". O link para a pagina do Kaggle se encontra [aqui](https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification).
+
 # Etapas
 * Exploração dos dados;
 * Análises estatísticas;
@@ -15,6 +18,6 @@ Projeto de Machine Learning de uma base de dados de manutenção para predizer f
 * Metrificações utilizando AUC-ROC.
 
 # Arquivos
-* explore.ipynb = Código contendo a importação da base e a exploração dos dados;
-* data_treatment.ipynb = Código para tratamento dos dados;
-* modelo.ipynb = Código do treinamento, testes e otimizações do modelo de ML.
+* [explore.ipynb](explore.ipynb): Código contendo a importação da base e a exploração dos dados;
+* [data_treatment.ipynb](data_treatment.ipynb): Código para tratamento dos dados;
+* [modelo.ipynb](modelo.ipynb): Código do treinamento, testes e otimizações do modelo de ML.
