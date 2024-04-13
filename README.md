@@ -15,3 +15,6 @@ Projeto de Machine Learning de uma base de dados de manutenção para predizer f
 * Metrificações utilizando AUC-ROC.
 
 # Arquivos
+* explore.ipynb = Código contendo a importação da base e a exploração dos dados;
+* data_treatment.ipynb = Código para tratamento dos dados;
+* modelo.ipynb = Código do treinamento, testes e otimizações do modelo de ML.
